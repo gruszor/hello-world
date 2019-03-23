@@ -1,6 +1,7 @@
 # hello-world
 learning stuff
 
+
 aaaaaa
 bbbbbbb
 cccccccc
@@ -16,3 +17,6 @@ h
 */
 
 i
+=======
+kurde no nie wiem
+
